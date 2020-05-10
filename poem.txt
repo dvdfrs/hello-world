@@ -2,3 +2,6 @@ This is a poem
 even if I'm not a poet
 
 In theory, this line should be in the ausiliar branch
+Let's add some basic Hello World in python:
+
+print('Hello World')
